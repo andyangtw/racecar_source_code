@@ -26,7 +26,7 @@ ros::NodeHandle  nodeHandle;
 const int minSteering = 30 ;
 const int maxSteering = 150 ;
 const int minThrottle = 0 ;
-const int maxThrottle = 150 ;
+const int maxThrottle = 110 ;
 
 Servo steeringServo;
 Servo electronicSpeedController ;  // The ESC on the TRAXXAS works like a Servo
