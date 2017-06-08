@@ -11,11 +11,11 @@
     <!-- 'Y' button is the deadman switch 
          Button value = 4 
     -->
-    <param name="axis_deadman" value="4"/>
+    <param name="axis_deadman" value="9"/>
     <!-- Throttle is the right trigger 
          Axis value = 4
     -->
-    <param name="axis_linear" value="4"/>
+    <param name="axis_linear" value="9"/>
     <param name="axis_angular" value="0"/>
 
     <param name="button_a" value="0"/>
